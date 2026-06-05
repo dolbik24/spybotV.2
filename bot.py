@@ -4,7 +4,7 @@ import os
 from aiogram import Bot, Dispatcher, types, F
 from aiogram.filters import Command
 
-BOT_TOKEN = os.environ["8929308356:AAHbyi9AtlZQYlBjSmY5l6866vShd4gP6Zc"]
+BOT_TOKEN = "8929308356:AAHbyi9At1ZQY1BjSMy516866vShd4gP6Zc"
 REQUIRED_CHANNEL = "@spygame24"
 
 bot = Bot(token=BOT_TOKEN)
